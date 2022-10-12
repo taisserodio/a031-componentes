@@ -20,8 +20,8 @@ Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste r
 
 # Exercício 1
 
-Primeiro, vamos criar um componente para representar o Card de Vídeo. Chame-o de **CardVideo**. Para facilitar nosso trabalho, crie este Componente em um arquivo chamado `CardVideo.js`.
-Agora, os cards de vídeo serão chamados por meio deste componente. Portanto, altere os elementos HTML que foram criados no nosso `App.js`, para que ao invés de serem HTML, serem o componente `CardVideo`. Todos os vídeos terão a mesma aparência, mas enquanto não conhecemos `props` (matéria da próxima aula), podemos deixar assim.
+ok/Primeiro, vamos criar um componente para representar o Card de Vídeo. Chame-o de **CardVideo**. Para facilitar nosso trabalho, crie este Componente em um arquivo chamado `CardVideo.js`.
+Agora, os cards de vídeo serão chamados por meio deste componente.(//usando import) Portanto, altere os elementos HTML que foram criados no nosso `App.js`, para que ao invés de serem HTML, serem o componente `CardVideo`. Todos os vídeos terão a mesma aparência, mas enquanto não conhecemos `props` (matéria da próxima aula), podemos deixar assim.
 
 Lembre-se de tornar a função exportável, e importá-la no `App.js`.
 
